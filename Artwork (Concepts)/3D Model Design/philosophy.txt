@@ -1,0 +1,17 @@
+draft 1 of document
+
+
+3D conversions of 2d characters are NOT easy.
+
+Even a few video games with big budgets cannot perfectly nail down the aesthetic, and it really shows because of the uncanny valley.
+The Garry's Mod/Source Film Maker ponies look very, very off. Perhaps this is due to trying to look good at all angles. The problem is that this is impossible. Even the human face arguably doesn't look good at all angles.
+
+My proposal to greatly alleviating the problem is by making the 3D models closely resemble the MOST COMMON angle presented in the show.
+
+What is this angle? Animators who use puppets seem to call this the 3Q angle. I don't know exactly what it means or what it stands for, but in the show, this kind of angle is rather consistent. I am talking about the angle that has about one-and-a-half eyes on the screen. This is what sets apart the actual show quality from most fan animations. This applies to more than just cartoons, however. Even on stage in, let's say, a play, actors are supposed to make at least some sort of eye contact with the audience very often. This is because in the end of the day, the play is a performance and not real life. The audience is not eavesdropping. The subtle interaction between the audience and the actors can make or break the immersion. As counter-intuitive as it may sound, actors cannot talk face-to-face for 100% of their lines. Rather, it feels more like about 40%.
+
+The animators know about this sort of concept as well. Almost always (about 70-80% of the time) ponies are half looking at each other, half faced toward the screen. Especially in 2D animation, this is crucial. MLP animators are very clever with their animation style.
+
+
+
+
