@@ -6,6 +6,17 @@ Project Legacy is a massive project for an ambitious MLP game.
 
 It features the Twilight and Spike native to the alternate timeline of the Equestrian War. The two find themselves in enemy territory and take advantage of this chance to try to end the war. By working together to sneak past or take out enemies, they complete objectives that they assign themselves.
 
+## Goals
+-Design AI around EACH level. (the idea is to make the AI feel more like human players)
+-Art style inspired by Fire Emblem (Fates)
+-Design the game with the "adapt" theme
+-Make it look and feel "natural" to attract even the most skeptical of non-MLP fans
+-Keep it short and sweet (about 3-4 JAM-PACKED hours of gameplay)
+
+#Extreme Goals
+-Kojima level of attention to detail
+-Masterful, unforgettable story
+
 ## Why the name?
 This project is called Project Legacy because it not only has a legacy of past games to live up to but also has the goal of leaving a legacy of its own. Co-op stealth can greatly shake up the genre because two sneaking players are way easier to notice than one. This project will most likely borrow heavily from the Metal Gear Solid series, but may also borrow from parts of other games such as All Ghillied Up from Call of Duty 4: Modern Warfare.
 
