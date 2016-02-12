@@ -13,7 +13,7 @@ It features the Twilight and Spike native to the alternate timeline of the Eques
 -Make it look and feel "natural" to attract even the most skeptical of non-MLP fans
 -Keep it short and sweet (about 3-4 JAM-PACKED hours of gameplay)
 
-#Extreme Goals
+###Extreme Goals
 -Kojima level of attention to detail
 -Masterful, unforgettable story
 
